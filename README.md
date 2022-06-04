@@ -1,7 +1,7 @@
 # learn-write-test-case
 
+Create number function (isPrime, quadratic Equation)
+
 Create Array function (every, filter, forEach, map, reduce, some )
 
-Create isPrime function
-
-Review Promise function
+Review Promise ,callback, async await (why is use, how to use it)
